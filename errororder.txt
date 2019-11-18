@@ -1,0 +1,15 @@
+data/images/AFLW2000-crop/image00028/image00028_cropped.jpg
+data/images/AFLW2000-crop/image00006/image00006_cropped.jpg
+data/images/AFLW2000-crop/image00010/image00010_cropped.jpg
+data/images/AFLW2000-crop/image00023/image00023_cropped.jpg
+data/images/AFLW2000-crop/image00026/image00026_cropped.jpg
+data/images/AFLW2000-crop/image00021/image00021_cropped.jpg
+data/images/AFLW2000-crop/image00004/image00004_cropped.jpg
+data/images/AFLW2000-crop/image00008/image00008_cropped.jpg
+data/images/AFLW2000-crop/image00014/image00014_cropped.jpg
+data/images/AFLW2000-crop/image00020/image00020_cropped.jpg
+data/images/AFLW2000-crop/image00022/image00022_cropped.jpg
+data/images/AFLW2000-crop/image00002/image00002_cropped.jpg
+data/images/AFLW2000-crop/image00019/image00019_cropped.jpg
+data/images/AFLW2000-crop/image00032/image00032_cropped.jpg
+data/images/AFLW2000-crop/image00013/image00013_cropped.jpg

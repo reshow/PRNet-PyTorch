@@ -1,9 +1,9 @@
 # PRN
-##Notice
+## Notice
 This repository is only a re-implementation of 《Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network》.
 If you use this code, please observe the license of [PRNet](https://github.com/YadiraF/PRNet) and [3DDFA](https://github.com/mmatl/pyrender).
 Please make sure that this code is only used for research and non-commercial purposes.
-
+I hope this re-implementation can help you.
 ## Requirements:
     python 3.6.9
     opencv-python 4.1

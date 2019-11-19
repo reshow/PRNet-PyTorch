@@ -21,7 +21,6 @@ default_cropped_image_shape = np.array([256, 256, 3])
 default_uvmap_shape = np.array([256, 256, 3])
 face_mask_np = io.imread('uv-data/uv_face_mask.png') / 255.
 face_mask_mean_fix_rate = (256 * 256) / np.sum(face_mask_np)
-mean_posmap = np.load('uv-data/mean_uv_posmap.npy')
 
 
 def process_uv(uv_coordinates):

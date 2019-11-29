@@ -54,6 +54,9 @@ python torchrun.py -train=False -test=True -pd=data/images/AFLW2000 --loadModelP
 
 ```
 
+A pre-trained model is provided at [here](https://drive.google.com/file/d/1YwNPKrLQ8z2WJZd9PLibAK9WF6Eq7Yfy/view?usp=sharing)
+
+
 Result examples:
 
 
